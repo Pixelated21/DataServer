@@ -3,16 +3,16 @@
     {
       "id": 1,
       "name": "Bottle of whatever",
-      "details": ""
-      "price":
-      "image":
+      "details": "Testing",
+      "price": 49898,
+      "image": "Testing"
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Bottle of whatever 2",
-      "details": ""
-      "price":
-      "image":
+      "details": "Testing 2",
+      "price": 49898,
+      "image": "Testing"
     },
   ],
 }
