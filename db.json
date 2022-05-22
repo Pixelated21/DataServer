@@ -4,14 +4,14 @@
       "id": 1,
       "name": "Bottle of whatever",
       "details": "Testing",
-      "price": 49898,
+      "price": "49898",
       "image": "Testing"
     },
     {
       "id": 1,
       "name": "Bottle of whatever 2",
       "details": "Testing 2",
-      "price": 49898,
+      "price": "49898",
       "image": "Testing"
     },
   ],
